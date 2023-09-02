@@ -2,10 +2,10 @@
   "name": "node_basics",
   "version": "1.0.0",
   "description": "ocuba",
-  "main": "/clase_01/arrays_01.js",
+  "main": "/clase_01/arrays_04.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./clase_01/arrays_01.js"
+    "start": "nodemon ./clase_01/arrays_04.js"
   },
   "author": "UNLICENSED",
   "license": "UNLICENSED",
